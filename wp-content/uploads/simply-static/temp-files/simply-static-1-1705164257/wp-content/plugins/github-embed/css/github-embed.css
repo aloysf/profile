@@ -5,7 +5,7 @@
 	width: 80%;
 	margin: auto;
 	margin-bottom: 1em;
-	background-image: url('/wp-content/plugins/github-embed/img/github-logos/mark.png');
+	background-image: url('/profileGit/wp-content/plugins/github-embed/img/github-logos/mark.png');
 	background-repeat: no-repeat;
 	background-position: 1em 1em;
 	-webkit-box-shadow: 2px 2px 2px #ddd;
@@ -14,11 +14,11 @@
 }
 
 .github-embed.github-logo-octocat {
-	background-image: url('/wp-content/plugins/github-embed/img/github-logos/octocat.png');
+	background-image: url('/profileGit/wp-content/plugins/github-embed/img/github-logos/octocat.png');
 }
 
 .github-embed.github-logo-mark {
-	background-image: url('/wp-content/plugins/github-embed/img/github-logos/mark.png');
+	background-image: url('/profileGit/wp-content/plugins/github-embed/img/github-logos/mark.png');
 }
 
 li.github-repo-contributor {
